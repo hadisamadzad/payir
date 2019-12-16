@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\Payir\\Payir\\Payir.csproj": {}
+    "C:\\repos\\Payir.Api\\Payir\\Payir.csproj": {}
   },
   "projects": {
-    "C:\\repos\\Payir\\Payir\\Payir.csproj": {
+    "C:\\repos\\Payir.Api\\Payir\\Payir.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\Payir\\Payir\\Payir.csproj",
+        "projectUniqueName": "C:\\repos\\Payir.Api\\Payir\\Payir.csproj",
         "projectName": "Payir",
-        "projectPath": "C:\\repos\\Payir\\Payir\\Payir.csproj",
+        "projectPath": "C:\\repos\\Payir.Api\\Payir\\Payir.csproj",
         "packagesPath": "C:\\Users\\Samadzad\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\Payir\\Payir\\obj\\",
+        "outputPath": "C:\\repos\\Payir.Api\\Payir\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,5 @@
+C:\repos\Payir.Api\Payir\bin\Debug\netcoreapp3.1\Payir.deps.json
+C:\repos\Payir.Api\Payir\bin\Debug\netcoreapp3.1\Payir.dll
+C:\repos\Payir.Api\Payir\obj\Debug\netcoreapp3.1\Payir.csprojAssemblyReference.cache
+C:\repos\Payir.Api\Payir\obj\Debug\netcoreapp3.1\Payir.AssemblyInfoInputs.cache
+C:\repos\Payir.Api\Payir\obj\Debug\netcoreapp3.1\Payir.AssemblyInfo.cs
