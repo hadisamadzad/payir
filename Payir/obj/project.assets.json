@@ -3920,7 +3920,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "restore": {
       "projectUniqueName": "C:\\repos\\Payir.Api\\Payir\\Payir.csproj",
       "projectName": "Payir",
