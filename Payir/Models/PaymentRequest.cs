@@ -6,9 +6,9 @@
         public int amount { get; set; }
         public string redirect { get; set; }
         public string mobile { get; set; }
-        public string FactorNumber { get; set; }
-        public string Description { get; set; }
-        public string ValidCardNumber { get; set; }
+        public string factorNumber { get; set; }
+        public string description { get; set; }
+        public string validCardNumber { get; set; }
 
         public void SetApiKey(string apiKey)
         {

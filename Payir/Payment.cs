@@ -14,7 +14,7 @@ namespace Payir
         /// <summary>
         /// Returns a new Pay.ir payment object.
         /// </summary>
-        /// <param name="apiKey">Client's ApiKey, For test api call, use parameterless constructor</param>
+        /// <param name="apiKey">Client's ApiKey, For "test" api call, use parameterless constructor</param>
         public Payment(string apiKey = "test")
         {
             _apiKey = apiKey;
