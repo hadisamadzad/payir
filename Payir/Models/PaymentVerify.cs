@@ -2,12 +2,12 @@
 {
     public class PaymentVerify
     {
-        public string ApiKey { get; private set; }
-        public string Token { get; set; }
+        public string api { get; private set; }
+        public string token { get; set; }
 
         public void SetApiKey(string apiKey)
         {
-            ApiKey = apiKey;
+            api = apiKey;
         }
     }
 }
